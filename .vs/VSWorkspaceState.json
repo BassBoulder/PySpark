@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\PySpark",
+    "\\PySpark\\CREATE",
     "\\Python"
   ],
+  "SelectedNode": "\\PySpark\\CREATE",
   "PreviewInSolutionExplorer": false
 }
