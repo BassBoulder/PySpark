@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CREATE"
+    "\\PySpark",
+    "\\Python"
   ],
-  "SelectedNode": "\\CREATE",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
