@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PySpark",
-    "\\PySpark\\CREATE",
-    "\\Python"
+    "\\PySpark Variant",
+    "\\PySpark Variant\\CREATE",
+    "\\PySpark Variant\\DELETE",
+    "\\PySpark Variant\\UPDATE",
+    "\\Python Variant",
+    "\\Python Variant\\TRANSFORM"
   ],
-  "SelectedNode": "\\PySpark\\CREATE",
+  "SelectedNode": "\\PySpark Variant\\UPDATE\\Placeholder.md",
   "PreviewInSolutionExplorer": false
 }
