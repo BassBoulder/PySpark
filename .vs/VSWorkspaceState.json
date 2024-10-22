@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PySpark Variant",
-    "\\PySpark Variant\\CREATE",
-    "\\PySpark Variant\\DELETE",
-    "\\PySpark Variant\\UPDATE",
     "\\Python Variant",
-    "\\Python Variant\\TRANSFORM"
+    "\\Python Variant\\FUNCTIONS"
   ],
+  "SelectedNode": "\\Python Variant\\FUNCTIONS\\ReactorEfficency.py",
   "PreviewInSolutionExplorer": false
 }
