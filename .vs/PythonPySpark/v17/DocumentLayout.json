@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\FUNCTIONS\\FailSafe.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Python Variant\\FUNCTIONS\\FailSafe.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Exercism\\BlackJack.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Python Variant\\Exercism\\BlackJack.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FailSafe.py",
-              "DocumentMoniker": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\FUNCTIONS\\FailSafe.py",
-              "RelativeDocumentMoniker": "Python Variant\\FUNCTIONS\\FailSafe.py",
-              "ToolTip": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\FUNCTIONS\\FailSafe.py",
-              "RelativeToolTip": "Python Variant\\FUNCTIONS\\FailSafe.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Title": "BlackJack.py",
+              "DocumentMoniker": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Exercism\\BlackJack.py",
+              "RelativeDocumentMoniker": "Python Variant\\Exercism\\BlackJack.py",
+              "ToolTip": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Exercism\\BlackJack.py",
+              "RelativeToolTip": "Python Variant\\Exercism\\BlackJack.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-10-22T09:25:01.323Z",
+              "WhenOpened": "2024-10-23T11:25:45.407Z",
               "EditorCaption": ""
             }
           ]

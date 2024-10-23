@@ -6,9 +6,10 @@
     "\\PySpark Variant\\DELETE",
     "\\PySpark Variant\\UPDATE",
     "\\Python Variant",
-    "\\Python Variant\\FUNCTIONS",
-    "\\Python Variant\\TRANSFORM"
+    "\\Python Variant\\Azure_SAS_URI_Encoder",
+    "\\Python Variant\\Exercism",
+    "\\Python Variant\\FUNCTIONS"
   ],
-  "SelectedNode": "\\Python Variant\\FUNCTIONS\\FailSafe.py",
+  "SelectedNode": "\\Python Variant\\Exercism\\BlackJack.py",
   "PreviewInSolutionExplorer": false
 }
