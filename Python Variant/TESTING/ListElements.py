@@ -1,10 +1,16 @@
-word = 'Catiness'
+word = 'Catiness '
+words = ('Catiness in a feline trait')
+index = 2
 
 a = word[:-4]
 b = a[-1]
 
 somethingElse = word[::2]
 
-print(b)
+splitWords = words.split()
 
-print(somethingElse)
+#print(b)
+
+#print(somethingElse)
+
+print(splitWords[index])
