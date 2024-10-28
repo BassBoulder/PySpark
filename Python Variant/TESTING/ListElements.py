@@ -1,4 +1,4 @@
-word = 'Catiness '
+word = 'Catiness'
 words = ('Catiness in a feline trait')
 index = 2
 
