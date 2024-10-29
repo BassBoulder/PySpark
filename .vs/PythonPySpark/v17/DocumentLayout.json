@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\PythonPySpark\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Exercism\\LittleSistersEssay.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Python Variant\\Exercism\\LittleSistersEssay.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 271,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,19 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LittleSistersEssay.py",
-              "DocumentMoniker": "C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Exercism\\LittleSistersEssay.py",
-              "RelativeDocumentMoniker": "Python Variant\\Exercism\\LittleSistersEssay.py",
-              "ToolTip": "C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Exercism\\LittleSistersEssay.py",
-              "RelativeToolTip": "Python Variant\\Exercism\\LittleSistersEssay.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-10-29T09:36:45.252Z",
-              "EditorCaption": ""
             }
           ]
         },
