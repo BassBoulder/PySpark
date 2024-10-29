@@ -1,15 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PySpark Variant",
-    "\\PySpark Variant\\CREATE",
-    "\\PySpark Variant\\DELETE",
-    "\\PySpark Variant\\UPDATE",
     "\\Python Variant",
     "\\Python Variant\\Azure_SAS_URI_Encoder",
     "\\Python Variant\\Exercism",
-    "\\Python Variant\\FUNCTIONS"
+    "\\Python Variant\\FUNCTIONS",
+    "\\Python Variant\\TESTING"
   ],
-  "SelectedNode": "\\Python Variant\\Exercism\\BlackJack.py",
   "PreviewInSolutionExplorer": false
 }
