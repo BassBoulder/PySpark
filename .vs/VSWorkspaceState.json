@@ -2,15 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\PySpark Variant",
-    "\\PySpark Variant\\CONNECTION",
-    "\\PySpark Variant\\CONVERSION",
-    "\\PySpark Variant\\CREATE",
-    "\\PySpark Variant\\DELETE",
-    "\\PySpark Variant\\FUNCTIONS",
-    "\\PySpark Variant\\LAKEHOUSE",
-    "\\PySpark Variant\\REPAIR",
-    "\\PySpark Variant\\UPDATE"
+    "\\Python Variant",
+    "\\Python Variant\\Exercism",
+    "\\Python Variant\\Functions",
+    "\\Python Variant\\PDFMERGE",
+    "\\Python Variant\\PDFMERGE\\PDFs"
   ],
-  "SelectedNode": "\\PySpark Variant\\FUNCTIONS\\TableMaintenance.ipynb",
+  "SelectedNode": "\\Python Variant\\PDFMERGE",
   "PreviewInSolutionExplorer": false
 }
