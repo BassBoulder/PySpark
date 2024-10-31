@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Exercism\\CardGames.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Python Variant\\Exercism\\CardGames.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Testing\\ListCount.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Python Variant\\Testing\\ListCount.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CardGames.py",
-              "DocumentMoniker": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Exercism\\CardGames.py",
-              "RelativeDocumentMoniker": "Python Variant\\Exercism\\CardGames.py",
-              "ToolTip": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Exercism\\CardGames.py",
-              "RelativeToolTip": "Python Variant\\Exercism\\CardGames.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Title": "ListCount.py",
+              "DocumentMoniker": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Testing\\ListCount.py",
+              "RelativeDocumentMoniker": "Python Variant\\Testing\\ListCount.py",
+              "ToolTip": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Testing\\ListCount.py",
+              "RelativeToolTip": "Python Variant\\Testing\\ListCount.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-10-30T12:30:40.528Z",
+              "WhenOpened": "2024-10-31T14:16:14.899Z",
               "EditorCaption": ""
             }
           ]

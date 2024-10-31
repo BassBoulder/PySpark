@@ -2,12 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\PySpark Variant",
+    "\\PySpark Variant\\CREATE",
+    "\\PySpark Variant\\Delete",
+    "\\PySpark Variant\\Update",
     "\\Python Variant",
     "\\Python Variant\\Exercism",
     "\\Python Variant\\Functions",
     "\\Python Variant\\PDFMERGE",
     "\\Python Variant\\PDFMERGE\\PDFs"
   ],
-  "SelectedNode": "\\Python Variant\\Functions\\AzureButtonURIEncoder.py",
+  "SelectedNode": "\\PySpark Variant\\CREATE",
   "PreviewInSolutionExplorer": false
 }
