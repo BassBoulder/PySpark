@@ -3,8 +3,9 @@
     "",
     "\\Python Variant",
     "\\Python Variant\\PDFMERGE",
-    "\\Python Variant\\PDFMERGE\\PDFs"
+    "\\Python Variant\\PDFMERGE\\PDFs",
+    "\\Python Variant\\TESTING"
   ],
-  "SelectedNode": "\\Python Variant\\PDFMERGE\\PDFs\\3.pdf",
+  "SelectedNode": "\\Python Variant\\TESTING\\LoopVsZip.py",
   "PreviewInSolutionExplorer": false
 }
