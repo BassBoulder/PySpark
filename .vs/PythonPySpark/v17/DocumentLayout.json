@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Testing\\ListMap.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Python Variant\\Testing\\ListMap.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Testing\\ListCount.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Python Variant\\Testing\\ListCount.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Testing\\DictElements.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Python Variant\\Testing\\DictElements.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,27 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ListMap.py",
-              "DocumentMoniker": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Testing\\ListMap.py",
-              "RelativeDocumentMoniker": "Python Variant\\Testing\\ListMap.py",
-              "ToolTip": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Testing\\ListMap.py",
-              "RelativeToolTip": "Python Variant\\Testing\\ListMap.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Title": "DictElements.py",
+              "DocumentMoniker": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Testing\\DictElements.py",
+              "RelativeDocumentMoniker": "Python Variant\\Testing\\DictElements.py",
+              "ToolTip": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Testing\\DictElements.py",
+              "RelativeToolTip": "Python Variant\\Testing\\DictElements.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-10-31T14:30:01.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListCount.py",
-              "DocumentMoniker": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Testing\\ListCount.py",
-              "RelativeDocumentMoniker": "Python Variant\\Testing\\ListCount.py",
-              "ToolTip": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\PythonPySpark\\Python Variant\\Testing\\ListCount.py",
-              "RelativeToolTip": "Python Variant\\Testing\\ListCount.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-10-31T14:16:14.899Z",
+              "WhenOpened": "2024-11-04T09:58:31.287Z",
               "EditorCaption": ""
             }
           ]

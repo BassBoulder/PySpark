@@ -2,15 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\PySpark Variant",
-    "\\PySpark Variant\\CREATE",
-    "\\PySpark Variant\\Delete",
-    "\\PySpark Variant\\Update",
     "\\Python Variant",
     "\\Python Variant\\Exercism",
     "\\Python Variant\\Functions",
-    "\\Python Variant\\PDFMERGE",
-    "\\Python Variant\\PDFMERGE\\PDFs"
+    "\\Python Variant\\Testing"
   ],
-  "SelectedNode": "\\PySpark Variant\\CREATE",
+  "SelectedNode": "\\Python Variant\\Exercism\\MakingTheGrade.py",
   "PreviewInSolutionExplorer": false
 }
