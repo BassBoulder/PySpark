@@ -16,7 +16,10 @@ def send_to_store(cart, aisle_mapping):
     for key in cart.keys():
         combinedCart[key] = [cart[key]] + aisle_mapping[key]
 
-    return dict(sorted(combinedCart.items(), reverse = True))
-    #return combinedCart
+    #return dict(sorted(combinedCart.items(), reverse = True))
+    return combinedCart
 
 print(send_to_store(cart1, aisleMapping1))
+
+print(cart1[key])
+print(cart1[value])
