@@ -35,4 +35,6 @@ output_pdf = r'C:\Users\NickElgar\source\repos\BassBoulder\PythonPySpark\Python 
 input_pdfs_home = [r'C:\Users\Roma Invicta\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\Nick Elgar - CV 31.10.24 v2.pdf', r'C:\Users\Roma Invicta\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\Nick Elgar - MS Learn Transcript 06.11.2024.pdf']
 output_pdf_home = r'C:\Users\Roma Invicta\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\Nick Elgar - CV + Transcript.pdf'
 
-merge_pdfs(input_pdfs, output_pdf)
+#merge_pdfs(input_pdfs, output_pdf)
+
+merge_pdfs(input_pdfs_home, output_pdf_home)
