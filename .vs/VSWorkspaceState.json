@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PySpark Variant",
     "\\Python Variant",
-    "\\Python Variant\\Exercism",
-    "\\Python Variant\\Functions",
-    "\\Python Variant\\Testing"
+    "\\Python Variant\\PDFMERGE",
+    "\\Python Variant\\PDFMERGE\\PDFs",
+    "\\Python Variant\\TESTING"
   ],
-  "SelectedNode": "\\Python Variant\\Exercism\\MakingTheGrade.py",
+  "SelectedNode": "\\Python Variant\\TESTING\\LoopVsZip.py",
   "PreviewInSolutionExplorer": false
 }
