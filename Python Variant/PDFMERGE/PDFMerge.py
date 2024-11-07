@@ -28,11 +28,13 @@ def merge_pdfs(input_pdfs, output_pdf):
 
 # Example usage
 
-input_pdfs = [r'C:\Users\NickElgar\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\1.pdf', r'C:\Users\NickElgar\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\2.pdf']
-output_pdf = r'C:\Users\NickElgar\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\3.pdf'
+input_pdfs = [r'C:\Users\NickElgar\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\Nick Elgar - CV 31.10.24 v2.pdf', r'C:\Users\NickElgar\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\Nick Elgar - MS Learn Transcript 06.11.2024.pdf']
+output_pdf = r'C:\Users\NickElgar\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\Nick Elgar - CV + Transcript.pdf'
 
 #USED THIS ON HOME PC 
-input_pdfs_home = [r'C:\Users\Roma Invicta\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\1.pdf', r'C:\Users\Roma Invicta\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\2.pdf']
-output_pdf_home = r'C:\Users\Roma Invicta\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\3.pdf'
+input_pdfs_home = [r'C:\Users\Roma Invicta\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\Nick Elgar - CV 31.10.24 v2.pdf', r'C:\Users\Roma Invicta\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\Nick Elgar - MS Learn Transcript 06.11.2024.pdf']
+output_pdf_home = r'C:\Users\Roma Invicta\source\repos\BassBoulder\PythonPySpark\Python Variant\PDFMERGE\PDFs\Nick Elgar - CV + Transcript.pdf'
 
-merge_pdfs(input_pdfs, output_pdf)
+#merge_pdfs(input_pdfs, output_pdf)
+
+merge_pdfs(input_pdfs_home, output_pdf_home)
