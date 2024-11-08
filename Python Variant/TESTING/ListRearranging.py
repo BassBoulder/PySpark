@@ -9,17 +9,22 @@ def fix_list_of_wagons(each_wagons_id, missing_wagons):
     :return: list - list of wagons.
     """
 
-    first, second, *theRest = each_wagons_id
-    missing_wagons.append(theRest)
-    missing_wagons.append(first)
-    missing_wagons.append(second)
+    fixedList = []
 
+    first, second, third,  *theRest = each_wagons_id
+
+    # fixedList.append(theRest[0])
+    fixedList.append(third)
+    fixedList += missing_wagons
+    fixedList += theRest
+    fixedList.append(first)
+    fixedList.append(second)
     
-    return missing_wagons
+    return fixedList
 
 
 
-fix_list_of_wagons(lista, listb)
+print(fix_list_of_wagons(lista, listb))
 
 
 
