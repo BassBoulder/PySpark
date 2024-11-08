@@ -1,12 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\PySpark Variant",
     "\\Python Variant",
-    "\\Python Variant\\EXERCISM",
-    "\\Python Variant\\PDFMERGE",
-    "\\Python Variant\\PDFMERGE\\PDFs",
-    "\\Python Variant\\TESTING"
+    "\\Python Variant\\Exercism",
+    "\\Python Variant\\Functions",
+    "\\Python Variant\\PDFMerge",
+    "\\Python Variant\\PDFMerge\\PDFs",
+    "\\Python Variant\\Testing"
   ],
-  "SelectedNode": "\\Python Variant\\EXERCISM\\Website.md",
   "PreviewInSolutionExplorer": false
 }
