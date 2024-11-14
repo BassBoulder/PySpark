@@ -1,4 +1,8 @@
 .vs/
-.vs
 
 [bd]in/
+/.gitignore
+/.vs/PythonPySpark/v17/.wsuo
+/.vs/PythonPySpark/v17/DocumentLayout.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
