@@ -19,6 +19,3 @@ def is_valid(isbn):
         return False
         
     return i == 0 and answer % 11 == 0
-
-print(is_valid("3-598-21508-8"))
-print(is_valid("3-598-21507-X"))
