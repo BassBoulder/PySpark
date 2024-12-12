@@ -4,14 +4,16 @@ def is_valid(isbn):
 
     for char in isbn:
 
-        if char != "x" and char != "-":
+        if char != "X" and char != "-":
             answer += int(char) * i
             i -= 1
 
+        elif char == "X":
+            answer += 10 * 1
+            
         else:
-            answer += 10
-
+            return False
+        
     return answer % 11 == 0
-
 
 print(is_valid("3-598-21508-8"))
