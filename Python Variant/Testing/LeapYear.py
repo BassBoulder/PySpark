@@ -10,4 +10,4 @@ def leap(year):
 
 
 
-print(leap(2100))
+print(leap(2000))
